@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VolunteerPortal</string>
+    <string name="header_info">Welcome to ________</string>
+    <string name="login_as">Login as</string>
+    <string name="student_drop_down">Student</string>
+    <string name="volunteer_drop_down">Volunteer</string>
+    <string name="school_admin_drop_down">School adminstrator</string>
+    <string name="admin_drop_down">Admin</string>
+</resources>
